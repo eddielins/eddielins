@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Eddie Lins! 👋
 
-<!--
-**eddielins/eddielins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<P><em>Junior Full Stack Developer
 
-Here are some ideas to get you started:
+[![Twitter: eddielins](https://img.shields.io/twitter/follow/eddielins?style=social)](https://twitter.com/eddielins)
+[![Linkedin: eddielins](https://img.shields.io/badge/-eddielins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eddielins/)](https://www.linkedin.com/in/eddielins/)
+[![GitHub eddielins](https://img.shields.io/github/followers/eddielins?label=follow&style=social)](https://github.com/eddielins)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me... 
+```javascript
+const eddie = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node],
+  challenge: "I'm doing the #100DaysOfCode challenge focused on react and redux"
+};
+```
