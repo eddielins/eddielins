@@ -11,6 +11,5 @@
 const eddie = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node],
-  challenge: "I'm doing the #100DaysOfCode challenge focused on react and redux"
 };
 ```
