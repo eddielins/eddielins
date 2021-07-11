@@ -8,8 +8,11 @@
 
 ### About me... 
 ```javascript
-const eddie = {
+const signature = {
+  name: "Eddie Lins",
+  pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node],
+  tag: "#WhatWeThinkWeBecome",
 };
 ```
