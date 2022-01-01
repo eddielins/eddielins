@@ -6,13 +6,3 @@
 [![Linkedin: eddielins](https://img.shields.io/badge/-eddielins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eddielins/)](https://www.linkedin.com/in/eddielins/)
 [![GitHub eddielins](https://img.shields.io/github/followers/eddielins?label=follow&style=social)](https://github.com/eddielins)
 
-### About me... 
-```javascript
-const signature = {
-  name: "Eddie Lins",
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node],
-  tag: "#WhatWeThinkWeBecome",
-};
-```
