@@ -35,6 +35,6 @@ currently_learning:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redhat,html,css,js,py,django,flask,aws,docker,git" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=redhat,html,css,js,py,django,flask,aws,azure,docker,git" alt="My Skills" />
   </a>
 </p>
