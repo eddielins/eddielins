@@ -13,8 +13,6 @@
 
 ---
 
-### About Me:
-
 ```yaml
 name: [eddielins]
 role: Junior DevOps Engineer
