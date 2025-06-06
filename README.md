@@ -1,4 +1,4 @@
-<h1 align="center">Junior DevOps Engineer | Cloud Enthusiast</h1>
+<h1 align="center">Junior DevOps Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+CI%2FCD+Pipelines...;Automating+Everything...;Living+in+the+Terminal!&center=true&width=500&height=45">
