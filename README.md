@@ -16,8 +16,8 @@
 ---
 
 ```yaml
-name: [eddielins]
-role: Python Backend Developer (Student)
+name: eddielins
+role: Python Developer (Student)
 focus:
   - Backend Development
   - RESTful API Design
