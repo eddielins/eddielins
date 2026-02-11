@@ -1,4 +1,4 @@
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Student</h1>
 
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Just+Learning+Python...;Making+APIs+Work+(Sometimes)...;Flask+%2B+MongoDB+Adventures...;Console.log()+But+in+Python;Future+CODAM+Student+🚀&center=true&width=500&height=45"> -->
@@ -43,12 +43,12 @@ currently_learning:
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
