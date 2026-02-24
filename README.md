@@ -1,4 +1,4 @@
-<h1 align="center">Student</h1>
+<h1 align="center">Python Enthusiast</h1>
 
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Just+Learning+Python...;Making+APIs+Work+(Sometimes)...;Flask+%2B+MongoDB+Adventures...;Console.log()+But+in+Python;Future+CODAM+Student+🚀&center=true&width=500&height=45"> -->
@@ -17,7 +17,7 @@
 
 ```yaml
 name: eddielins
-role: Python Developer (Student)
+role: Python Enthusiast
 focus:
   - Backend Development
   - RESTful API Design
