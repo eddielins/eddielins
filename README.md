@@ -1,9 +1,7 @@
-<h1 align="center">Python Enthusiast</h1>
+<h1 align="center">Engineer-ish</h1>
 
 <p align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Just+Learning+Python...;Making+APIs+Work+(Sometimes)...;Flask+%2B+MongoDB+Adventures...;Console.log()+But+in+Python;Future+CODAM+Student+🚀&center=true&width=500&height=45"> -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Python...;Building+Stuff+with+Flask...;Trying+to+Understand+MongoDB...;Debugging+...+a+lot+😅;Powered+by+Tereré+&center=true&width=500&height=45">
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=RHCE+loading...;Building+knowledge,+line+by+line...;Automating+servers+with+Ansible...;Securing+web+%26+database+servers...;Terminal+is+my+workspace+⚡&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -17,32 +15,39 @@
 
 ```yaml
 name: eddielins
-role: Python Enthusiast
-focus:
-  - Backend Development
-  - RESTful API Design
-  - Clean & Scalable Code
-tech_stack:
-  - python
-  - flask
-  - mongodb
-  - javascript
-  - git
-development_environment:
-  - macOS
-  - terminal
-  - sublime text
-  - vscode
-  - pycharm
-currently_learning:
-  - data structures & algorithms
-  - authentication (JWT / sessions)
-  - API security best practices
-  - backend architecture patterns
+status: Engineer-ish
+track: RHCE
+
+working_on:
+  - RHEL
+  - Ansible automation
+  - Networking fundamentals
+  - Server security & hardening
+
+skills_growing:
+  - users, permissions & access control
+  - systemd & service troubleshooting
+  - LVM & storage management
+  - SELinux & firewalld
+  - bash scripting
+  - SSH & remote management
+  - web & database configuration
+
+lab_life:
+  - RHEL / Rocky Linux VMs
+  - multi-node setups
+  - break → fix → understand
+  - terminal-first workflow
+
+mindset:
+  - learn deeply
+  - automate repeatable work
+  - understand before memorizing
+  - build knowledge, line by line
 ```
 ---
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -51,4 +56,4 @@ currently_learning:
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</p> -->
