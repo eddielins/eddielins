@@ -1,58 +1,38 @@
 <h1 align="center">"engineer-ish"</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+security+engineer+🔐;CODAM+Piscine+incoming+🌊;HTML+%7C+CSS+%7C+JS+%7C+Python;RHEL+10+%2B+macOS+daily+driver;Building+from+zero+to+something&center=true&width=500&height=45">
-</p>
-<p align="center">
-  <a href="https://github.com/eddielins"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/eddielins"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/eddielins"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/eddielins"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=RHCE+loading...;Building+knowledge,+line+by+line...;Automating+servers+with+Ansible...;Securing+web+%26+database+servers...;Terminal+is+my+workspace+⚡&center=true&width=500&height=45">
+</p>
 
 ```yaml
 name: eddielins
-status: "engineer-ish" # closing in on the real thing
-direction: cybersecurity | DevOps # asking myself the same question
+status: "engineer-ish"
+track: RHCE
 
-currently:
-  - preparing for the CODAM Piscine 🌊
-  - studying Linux internals, scripting & networking
-  - building a solid foundation before picking a lane
+working_on:
+  - RHEL
+  - Ansible automation
+  - Networking fundamentals
+  - Server security & hardening
 
-environment:
-  - RHEL 10          # deliberately chosen, not just installed
-  - macOS            # because balance matters
-  - terminal-first   # always
+skills_growing:
+  - users, permissions & access control
+  - systemd & service troubleshooting
+  - LVM & storage management
+  - SELinux & firewalld
+  - bash scripting
+  - SSH & remote management
+  - web & database configuration
 
-working_knowledge:
-  - Linux / RHEL 10  # filesystem, permissions, user management, services
-  - HTML & CSS       # comfortable building and styling pages
-  - JavaScript       # solid on the basics, growing fast
-  - Python           # scripting, automation, problem solving
-
-pulled_toward:
-  - security:  understanding how systems break & how to harden them
-  - devops:    automating infrastructure, keeping things running at scale
-  - both share the same foundation — still figuring out which rabbit hole
-    goes deeper
+lab_life:
+  - RHEL / Rocky Linux VMs
+  - multi-node setups
+  - break → fix → understand
+  - terminal-first workflow
 
 mindset:
-  - study deeply, not just broadly
-  - understand before you automate
-  - break things intentionally
-  - "engineer-ish" today, engineer tomorrow
+  - learn deeply
+  - automate repeatable work
+  - understand before memorizing
+  - build knowledge, line by line
 ```
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
