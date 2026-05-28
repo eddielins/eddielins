@@ -1,38 +1,35 @@
 <h1 align="center">"engineer-ish"</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=RHCE+loading...;Building+knowledge,+line+by+line...;Automating+servers+with+Ansible...;Securing+web+%26+database+servers...;Terminal+is+my+workspace+⚡&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=42+cadet+loading...;Building+knowledge,+line+by+line...;Surviving+the+Piscine...;Learning+C+the+hard+way...;printf(%22hello+world%22)%3B&center=true&width=500&height=45">
 </p>
 
 ```yaml
 name: eddielins
 status: "engineer-ish"
-track: RHCE
-
+school: Codam Amsterdam — 42 Network
 working_on:
-  - RHEL
-  - Ansible automation
-  - Networking fundamentals
-  - Server security & hardening
+  - C programming fundamentals
+  - Unix & shell basics
+  - Memory management (malloc, free)
+  - Norminette compliance
 
 skills_growing:
-  - users, permissions & access control
-  - systemd & service troubleshooting
-  - LVM & storage management
-  - SELinux & firewalld
+  - pointers & memory addresses
+  - writing functions from scratch
+  - file descriptors & system calls
+  - Makefiles
   - bash scripting
-  - SSH & remote management
-  - web & database configuration
+  - git & version control
 
-lab_life:
-  - RHEL / Rocky Linux VMs
-  - multi-node setups
-  - break → fix → understand
-  - terminal-first workflow
+projects:
+  - libft       # rebuild the C standard library
+  - ft_printf   # rebuild printf()
+  - get_next_line
+  - born2beroot # Linux VM & sysadmin basics
 
 mindset:
-  - learn deeply
-  - automate repeatable work
-  - understand before memorizing
+  - peer learning over lectures
+  - read the man page first
+  - understand before copy-pasting
   - build knowledge, line by line
 ```
