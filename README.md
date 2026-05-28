@@ -1,4 +1,4 @@
-<h1 align="center">"engineer-ish"</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=42+engineer+loading...;Building+knowledge,+line+by+line...;Surviving+the+Piscine...;Learning+C+the+hard+way...;printf(%22hello+world%22)%3B&center=true&width=500&height=45">
 </p>
